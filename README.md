@@ -1,6 +1,8 @@
 Sprouts
 =======
 
+[![Build Status](https://secure.travis-ci.org/dvberkel/sprouts.png?branch=master)](http://travis-ci.org/dvberkel/sprouts)
+
 I recently read the article
 [Computer Analysis of Sprouts With Nimbers](http://arxiv.org/abs/1008.2320 "ArXiv entry 1008.2320")
 by Julien Lemoine and Simon Viennot. I studied the game of
